@@ -1,11 +1,6 @@
 # time_calculator
 One of freecodecamp's challenges
 
-You will be working on this project with our Replit starter code.
-
-Start by importing the project on Replit.
-Next, you will see a .replit window.
-Select Use run command and click the Done button.
 Write a function named add_time that takes in two required parameters and one optional parameter:
 
 a start time in the 12-hour clock format (ending in AM or PM)
